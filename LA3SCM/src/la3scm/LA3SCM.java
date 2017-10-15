@@ -27,6 +27,6 @@ public class LA3SCM {
     public void addFeatureA(){
         
         System.out.println("Printing Feature A....");
-        
+        System.out.println("Print error")
     }
 }
