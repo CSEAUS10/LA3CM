@@ -23,4 +23,10 @@ public class LA3SCM {
     public void addFeatureB(){
         
     } 
+    
+    public void addFeatureA(){
+        
+        System.out.println("Printing Feature A....");
+        
+    }
 }
